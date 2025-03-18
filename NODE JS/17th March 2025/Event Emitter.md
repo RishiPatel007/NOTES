@@ -256,3 +256,20 @@ Returns a copy of the array of listeners for the event named `eventName`, inclu
 | emitter.listeners(event)                   | Returns a copy of the array of listeners for the specified event.                                                                                                                                       |
 | emitter.emit(event[, arg1][, arg2][, ...]) | Raise the specified events with the supplied arguments.                                                                                                                                                 |
 | emitter.listenerCount(type)                | Returns the number of listeners listening to the type of event.                                                                                                                                         |
+# Returning from event emitter & extends
+
+```javascript
+const EventEmitter = require("events").EventEmitter;
+class MyEventEmitter extends EventEmitter {
+    emitObject(event, obj = {}) {
+        this.emit(event, obj);
+        return obj;
+    }
+}
+const emitter = new MyEventEmitter();
+emitter.on("sayHello", function(e) {
+    e.message += " World";
+});
+const evt = emitter.emitObject("sayHello", {message: "Hello"});
+console.log(evt.message); // "Hello World"
+```
