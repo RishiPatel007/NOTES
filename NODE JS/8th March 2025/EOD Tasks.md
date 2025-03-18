@@ -1,0 +1,7 @@
+- Did few striver DSA questions
+- Fs module
+	- Read / Write / Append
+	- Open / close
+	-  Stat
+- Different CLI commands
+- Blog : https://github.blog/developer-skills/programming-languages-and-frameworks/cli-tricks-every-developer-should-know/

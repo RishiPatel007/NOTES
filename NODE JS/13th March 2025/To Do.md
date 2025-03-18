@@ -1,0 +1,8 @@
+- Debugger
+	- Conditional breakpoint
+	- Log point
+	- Chrome dev tools
+- Internationalisation
+- Striver 5 questions
+- Os module
+- Blog : https://dev.to/onlinemsr/15-javascript-tricks-transforming-beginners-to-pros-6fp

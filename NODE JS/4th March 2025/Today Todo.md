@@ -1,0 +1,19 @@
+- Read about CORS
+	- What is CORS
+	- Headers related to CORS
+	- Preflight Request
+	- Link :  [[CORS (Cross Origin Resource Sharing)]]
+---
+- Read about environment variables
+	- Why do we need that
+	- How to create and use .env file
+	- Common things we store in .env file
+	- Link : [[Environment variables]]
+---
+- Read about Technical Debt
+- Buffer Object
+	- What is Buffer and why do we need that
+	- Some commonly used buffer methods
+	- Link : [[Buffer Object]]
+---
+- Blog : https://portswigger.net/web-security/csrf

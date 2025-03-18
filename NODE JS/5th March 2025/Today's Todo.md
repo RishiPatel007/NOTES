@@ -1,0 +1,17 @@
+- Functions 
+	- What is function 
+	- Types of functions
+	- Link : [[Functions]]
+- Difference Between Core and Local Modules
+- Different module types like CJS , ESM , etc.
+	- How to export and import in each of them
+	- Barrel Modules and when to use them
+		- Their Disadvantages in some cases
+	- Link 1 : [[Javascript Modules & Export]]
+	- Link 2 : [[CJS Module Export-Import]]
+	- Link 3 : [[ESM Import-Export]]
+- Coupling & Cohesion
+	- Definition and types
+	- What to do to avoid it
+	- Link : [[Coupling and Cohesion]]
+- Blog : https://tkdodo.eu/blog/please-stop-using-barrel-files

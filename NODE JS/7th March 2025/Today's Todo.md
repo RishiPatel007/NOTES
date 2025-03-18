@@ -1,0 +1,11 @@
+- Package manager
+	- Different types
+	- Their advantages and disadvantages
+	- Doubt : what is symbolic links (symlinks) and hard links
+- Versioning
+- Npm 
+	- package.json
+	- package-lock.json
+	- CLI commands
+- Dev dependencies
+- Blog : https://nodesource.com/blog/nodejs-package-manager-comparative-guide-2024
