@@ -148,12 +148,11 @@ myEmitter.on('event', function firstListener() {
 });
 // Second listener
 myEmitter.on('event', function secondListener(arg1, arg2) {
-  console.log(`event with parameters ${arg1}, ${arg2} in second listener`);
+  console.log('Helloooo! second listener',arg1,arg2);
 });
 // Third listener
 myEmitter.on('event', function thirdListener(...args) {
-  const parameters = args.join(', ');
-  console.log(`event with parameters ${parameters} in third listener`);
+  console.log('Helloooo! third listener',args);
 });
 
 myEmitter.emit('event', 1, 2, 3, 4, 5);
@@ -161,9 +160,9 @@ myEmitter.emit('event', 1, 2, 3, 4, 5);
 /* Output : 
 Helloooo! first listener
 
-event with parameters 1, 2 in second listener
+Helloooo! second listener,1,2
 
-event with parameters 1, 2, 3, 4, 5 in third listener
+Helloooo! second listener,[1,2,3,4,5]
 */
 ```
 
