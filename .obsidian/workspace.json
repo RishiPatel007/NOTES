@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "50d135b9a782c91b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb82d80b10b5a651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a44596e7c3c3c7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NODE JS/25th March 2025/Template Engine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Template Engine"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70c4c6c3a04049d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "576fe009b61c3a57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbca893f6be3057d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0379b26ac96e5b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ebb25ba0ee317302",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cc6705a369071e0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "054ba50bf13bc5a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f05a2f4091e0620",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3c620fd4d09376b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "5183ca80a69f1ce5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ca4219d26e079b92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NODE JS/17th March 2025/ToDo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ToDo"
+            }
+          },
+          {
+            "id": "3a95de5168705d80",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "0a44596e7c3c3c7e",
+  "lastOpenFiles": [
+    "NODE JS/19th March 2025/Server Static File.md",
+    "NODE JS/25th March 2025/Template Engine.md",
+    "NODE JS/25th March 2025",
+    "NODE JS/Untitled.md",
+    "NODE JS/19th March 2025/Middleware.md",
+    "NODE JS/19th March 2025/ToDo.md",
+    "NODE JS/19th March 2025/Test Files/image.jpeg",
+    "NODE JS/19th March 2025/Test Files/sample_640×426.jpeg",
+    "NODE JS/19th March 2025/Test Files/image.jpg",
+    "NODE JS/19th March 2025/image.jpeg",
+    "NODE JS/19th March 2025/image.jpg",
+    "NODE JS/19th March 2025/sample_1920×1280.jpeg",
+    "NODE JS/19th March 2025/oskar-smethurst-B1GtwanCbiw-unsplash.jpg",
+    "NODE JS/19th March 2025/Test Files/index.html",
+    "NODE JS/19th March 2025/Test Files/object.json",
+    "NODE JS/19th March 2025/Test Files/script.js",
+    "NODE JS/19th March 2025/Test Files/style.css",
+    "NODE JS/19th March 2025/Test Files/textFile.txt",
+    "NODE JS/19th March 2025/Test Files/video.mp4",
+    "NODE JS/19th March 2025/Test Files",
+    "NODE JS/19th March 2025/object.json",
+    "NODE JS/19th March 2025/temp.js",
+    "NODE JS/19th March 2025/node_modules/qs/README.md",
+    "NODE JS/19th March 2025/node_modules/qs/LICENSE.md",
+    "NODE JS/19th March 2025/node_modules/math-intrinsics/README.md",
+    "NODE JS/19th March 2025/node_modules/side-channel/CHANGELOG.md",
+    "NODE JS/19th March 2025/node_modules/get-proto/CHANGELOG.md",
+    "NODE JS/19th March 2025/node_modules/es-define-property/README.md",
+    "NODE JS/19th March 2025/node_modules/side-channel-weakmap/CHANGELOG.md",
+    "NODE JS/7th March 2025/Untitled.md",
+    "NODE JS/17th March 2025/ToDo.md",
+    "NODE JS/17th March 2025/Event Emitter.md",
+    "NOTES/README.md",
+    "MINECRAFT/ROADMAP.md",
+    "Untitled.canvas",
+    "NODE JS/12th March 2025/Node js core Debugger.md",
+    "NODE JS/7th March 2025/Package manager and its Types.md",
+    "NODE JS/6th March 2025/Javascript Modules and Export.md",
+    "NODE JS/8th March 2025/FS Module.md",
+    "NODE JS/12th March 2025/Path module.md",
+    "NODE JS/12th March 2025/Process module.md",
+    "NODE JS/13th March 2025/To Do.md",
+    "NODE JS/12th March 2025/ToDo.md",
+    "NODE JS/7th March 2025/Today's Todo.md",
+    "NODE JS/5th March 2025/Tasks.canvas",
+    "NODE JS/5th March 2025/{barrel files}.png",
+    "NODE JS/4th March 2025/{env}.png",
+    "NODE JS/3rd March 2025/{A21EF26D-A35F-48AB-8E20-2C3E8F5D606D}.png"
+  ]
+}

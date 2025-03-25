@@ -1,0 +1,2 @@
+-  create a demo for the serving static files.
+-  explore about middle ware.
