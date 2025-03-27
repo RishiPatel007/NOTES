@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NODE JS/25th March 2025/Template Engine.md",
+                "file": "NODE JS/26th March 2025/To Do.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Template Engine"
+              "title": "To Do"
             }
           }
         ]
@@ -186,8 +186,14 @@
   },
   "active": "0a44596e7c3c3c7e",
   "lastOpenFiles": [
-    "NODE JS/19th March 2025/Server Static File.md",
+    "NODE JS/26th March 2025/Express.md",
+    "NODE JS/26th March 2025/To Do.md",
+    "NODE JS/26th March 2025/Framework.md",
+    "NODE JS/25th March 2025/TODO.md",
+    "NODE JS/26th March 2025",
     "NODE JS/25th March 2025/Template Engine.md",
+    "NODE JS/25th March 2025/Node Mailer.md",
+    "NODE JS/19th March 2025/Server Static File.md",
     "NODE JS/25th March 2025",
     "NODE JS/Untitled.md",
     "NODE JS/19th March 2025/Middleware.md",
@@ -207,7 +213,6 @@
     "NODE JS/19th March 2025/Test Files/video.mp4",
     "NODE JS/19th March 2025/Test Files",
     "NODE JS/19th March 2025/object.json",
-    "NODE JS/19th March 2025/temp.js",
     "NODE JS/19th March 2025/node_modules/qs/README.md",
     "NODE JS/19th March 2025/node_modules/qs/LICENSE.md",
     "NODE JS/19th March 2025/node_modules/math-intrinsics/README.md",
@@ -225,11 +230,6 @@
     "NODE JS/7th March 2025/Package manager and its Types.md",
     "NODE JS/6th March 2025/Javascript Modules and Export.md",
     "NODE JS/8th March 2025/FS Module.md",
-    "NODE JS/12th March 2025/Path module.md",
-    "NODE JS/12th March 2025/Process module.md",
-    "NODE JS/13th March 2025/To Do.md",
-    "NODE JS/12th March 2025/ToDo.md",
-    "NODE JS/7th March 2025/Today's Todo.md",
     "NODE JS/5th March 2025/Tasks.canvas",
     "NODE JS/5th March 2025/{barrel files}.png",
     "NODE JS/4th March 2025/{env}.png",

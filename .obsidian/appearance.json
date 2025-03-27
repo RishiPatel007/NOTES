@@ -2,5 +2,6 @@
   "theme": "moonstone",
   "accentColor": "#3c71ec",
   "baseFontSize": 17,
-  "cssTheme": "Encore"
+  "cssTheme": "Encore",
+  "showRibbon": true
 }

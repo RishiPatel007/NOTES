@@ -1,0 +1,16 @@
+EOD Tasks : 
+- Moments module for time related stuff
+- Framework
+	- Difference from library
+	- Benefits and Disadvantages
+- Started Express
+	- How to create server in express
+		- get() , post() , all()
+		- send() , set() , status()
+	- Middleware
+		- Custom
+		- Body parsing using express.json()
+	- Serving Static File
+		- Using middleware
+		- Using sendFile()
+- Blog : https://www.inkoop.io/blog/express-vs-fastify-in-depth-comparison-of-node-js-frameworks/

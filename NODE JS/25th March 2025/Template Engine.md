@@ -40,7 +40,6 @@ ejs demo.ejs -f data.json -o index.html
 
 ```json
 // data.json
-
 {
 	"user": { "name": "someone" },
 	"users": [{ "name": "Rishi" }, { "name": "Meet" }]
