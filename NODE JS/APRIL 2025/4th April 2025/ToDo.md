@@ -1,5 +1,7 @@
 EOD Tasks : 
-
+- Memoization
+	- Different use cases 
+	- Implemented it in Fibonacci
 - Striver Questions 
 	- https://leetcode.com/problems/largest-odd-number-in-string/description/
 	- https://leetcode.com/problems/remove-outermost-parentheses/description/
