@@ -6,6 +6,9 @@
 - `Availability`: Every request receives a (non-error) response, without the guarantee that it contains the most recent write.
 - `Partition Tolerance`: The system continues to operate despite arbitrary partitioning due to network failures.
 
+- In a partition scenario, either you refuse operations to keep data consistent (but become unavailable to some users)
+- Or you allow operations to maintain availability (but accept that data will be temporarily inconsistent)
+- So CAP will not fully be right
 # Relational
 
 - Tabular format data

@@ -1,7 +1,9 @@
 {
-  "theme": "moonstone",
-  "accentColor": "#3c71ec",
-  "baseFontSize": 17,
-  "cssTheme": "Encore",
-  "showRibbon": true
+  "theme": "obsidian",
+  "accentColor": "",
+  "baseFontSize": 18,
+  "cssTheme": "Underwater",
+  "showRibbon": true,
+  "monospaceFontFamily": "",
+  "textFontFamily": ""
 }

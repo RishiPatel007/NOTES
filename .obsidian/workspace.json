@@ -4,25 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fb82d80b10b5a651",
+        "id": "b8041590fab8beb6",
         "type": "tabs",
         "children": [
           {
-            "id": "0a44596e7c3c3c7e",
+            "id": "9eae229d2d00ec1e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "NODE JS/APRIL 2025/Buddy Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "NODE JS/APRIL 2025/15th April 2025/BSON vs JSON.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "Buddy Tasks"
+              "icon": "lucide-file",
+              "title": "BSON vs JSON"
             }
           }
         ]
@@ -82,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 277.5110321044922
   },
   "right": {
     "id": "cc6705a369071e0e",
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "NODE JS/APRIL 2025/15th April 2025/BSON vs JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from BSON vs JSON"
             }
           },
           {
@@ -145,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NODE JS/27th March 2025/ToDo.md",
+                "file": "NODE JS/APRIL 2025/10th April 2025/ToDo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -165,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,39 +183,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bbca893f6be3057d",
+  "active": "9eae229d2d00ec1e",
   "lastOpenFiles": [
-    "NODE JS/APRIL 2025/4th April 2025/ToDo.md",
+    "NODE JS/APRIL 2025/15th April 2025/_id.md",
+    "NODE JS/APRIL 2025/15th April 2025/Object Id.md",
+    "NODE JS/MARCH 2025/26th March 2025/Framework.md",
+    "NODE JS/MARCH 2025/6th March 2025/LIST.md",
+    "NODE JS/APRIL 2025/15th April 2025/BSON vs JSON.md",
+    "Excalidraw/Drawing 2025-04-15 13.10.41.excalidraw.md",
+    "NODE JS/APRIL 2025/15th April 2025/ToDo.md",
     "NODE JS/APRIL 2025/Buddy Tasks.md",
-    "NODE JS/APRIL 2025/3rd April 2025/ToDo.md",
+    "NODE JS/APRIL 2025/14th April 2025/ToDo.md",
+    "NODE JS/APRIL 2025/15th April 2025",
+    "NODE JS/APRIL 2025/11th April 2025/In memory database.md",
+    "NODE JS/APRIL 2025/11th April 2025/ToDo.md",
+    "NODE JS/APRIL 2025/11th April 2025/Horizontal vs Vertical Scaling.md",
+    "NODE JS/APRIL 2025/11th April 2025/Database Examples.md",
+    "NODE JS/APRIL 2025/14th April 2025/SiteMap.md",
+    "NODE JS/APRIL 2025/14th April 2025",
+    "NODE JS/APRIL 2025/9th April 2025/Database.md",
+    "NODE JS/APRIL 2025/10th April 2025/ToDo.md",
+    "NODE JS/APRIL 2025/11th April 2025",
+    "NODE JS/APRIL 2025/9th April 2025/ToDo.md",
+    "NODE JS/APRIL 2025/9th April 2025/Google oAuth 2.0.md",
+    "NODE JS/APRIL 2025/10th April 2025/Multer+Cloudinary.md",
+    "NODE JS/APRIL 2025/10th April 2025/Parameter in next of middleware.md",
+    "NODE JS/APRIL 2025/10th April 2025",
+    "NODE JS/MARCH 2025/6th March 2025/Execution Context , Scope & Hoisting.md",
+    "NODE JS/MARCH 2025/6th March 2025/Function.md",
+    "NODE JS/MARCH 2025/6th March 2025/Errors and Types of error.md",
+    "NODE JS/MARCH 2025/6th March 2025/Super.md",
+    "NODE JS/APRIL 2025/9th April 2025",
+    "NODE JS/MARCH 2025/3rd March 2025/Api & Status Codes.md",
+    "NODE JS/MARCH 2025/8th March 2025/FS Module.md",
+    "NODE JS/APRIL 2025/5th April 2025",
     "NODE JS/APRIL 2025/4th April 2025",
-    "NODE JS/APRIL 2025/2nd April 2025/JWT Token.md",
     "NODE JS/APRIL 2025/3rd April 2025",
-    "NODE JS/APRIL 2025/2nd April 2025/ToDo.md",
-    "NODE JS/APRIL 2025/2nd April 2025/Authentication & Authorization.md",
-    "NODE JS/APRIL 2025/2nd April 2025/Bcrypt.md",
-    "NODE JS/APRIL 2025/1st April 2025/ToDo.md",
     "NODE JS/APRIL 2025/2nd April 2025",
     "NODE JS/APRIL 2025",
-    "NODE JS/MARCH 2025",
-    "NODE JS/MARCH 2025/28th March 2025/ToDo.md",
-    "NODE JS/MARCH 2025/19th March 2025/Server Static File.md",
-    "NODE JS/MARCH 2025/27th March 2025/ToDo.md",
-    "NODE JS/APRIL 2025/1st April 2025",
-    "NODE JS/MARCH 2025/28th March 2025",
-    "NODE JS/MARCH 2025/26th March 2025/Express.md",
-    "NODE JS/MARCH 2025/27th March 2025",
-    "NODE JS/MARCH 2025/26th March 2025/Moments Module.md",
-    "NODE JS/MARCH 2025/26th March 2025/To Do.md",
-    "NODE JS/MARCH 2025/26th March 2025/Framework.md",
-    "NODE JS/MARCH 2025/25th March 2025/TODO.md",
-    "NODE JS/MARCH 2025/26th March 2025",
-    "NODE JS/MARCH 2025/25th March 2025/Template Engine.md",
-    "NODE JS/MARCH 2025/25th March 2025/Node Mailer.md",
-    "NODE JS/MARCH 2025/25th March 2025",
-    "NODE JS/Untitled.md",
-    "NODE JS/MARCH 2025/19th March 2025/Middleware.md",
-    "NODE JS/MARCH 2025/19th March 2025/ToDo.md",
     "NODE JS/19th March 2025/Test Files/image.jpeg",
     "NODE JS/19th March 2025/Test Files/sample_640×426.jpeg",
     "NODE JS/19th March 2025/Test Files/image.jpg",
@@ -226,11 +228,6 @@
     "NODE JS/19th March 2025/image.jpg",
     "NODE JS/19th March 2025/sample_1920×1280.jpeg",
     "NODE JS/19th March 2025/oskar-smethurst-B1GtwanCbiw-unsplash.jpg",
-    "NODE JS/19th March 2025/node_modules/qs/README.md",
-    "NODE JS/19th March 2025/node_modules/qs/LICENSE.md",
-    "NODE JS/19th March 2025/node_modules/math-intrinsics/README.md",
-    "NODE JS/19th March 2025/node_modules/side-channel/CHANGELOG.md",
-    "NODE JS/19th March 2025/node_modules/get-proto/CHANGELOG.md",
     "Untitled.canvas",
     "NODE JS/MARCH 2025/5th March 2025/Tasks.canvas",
     "NODE JS/5th March 2025/{barrel files}.png",

@@ -12,11 +12,11 @@ kanban-plugin: board
 - [x] Postman(Pre/Post Script , Token in headers , Middleware argument passing to controller , Passing array in req query)
 - [x] File-Upload to Backend / Presigned Url Implementation using cloudinary
 - [x] Cron Job
-- [ ] Git Advance (stash , pull , merge , conflict)
+- [x] Git Advance (stash , pull , merge , conflict)
 - [x] Monolithic / Microservice
-- [ ] RSS Feed
-- [ ] Site Map
-- [ ] Eslint
+- [x] RSS Feed
+- [x] Site Map
+- [x] Eslint
 - [ ] ngrok
 
 

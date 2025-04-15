@@ -1,5 +1,6 @@
 {
   "readableLineLength": false,
   "promptDelete": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "showLineNumber": false
 }
